@@ -1,0 +1,15 @@
+{
+  "name": "ferhukler-scrims-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot that can run 24/7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "prod": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.0",
+    "dotenv": "^16.4.2"
+  }
+}
